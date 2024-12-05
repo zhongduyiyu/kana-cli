@@ -1,0 +1,20 @@
+[
+  {
+    "reading": "ke",
+    "hiragana": "け",
+    "katakana": "ケ",
+    "type": 1,
+    "answer": "け",
+    "isCorrect": true,
+    "timestamp": 1733392890673
+  },
+  {
+    "reading": "ka",
+    "hiragana": "か",
+    "katakana": "カ",
+    "type": 1,
+    "answer": "き",
+    "isCorrect": false,
+    "timestamp": 1733392893672
+  }
+]

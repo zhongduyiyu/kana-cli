@@ -1,0 +1,17 @@
+{
+  "name": "kana-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool for memorizing Japanese kana (hiragana and katakana)",
+  "main": "index.js",
+  "bin": {
+    "kana-cli": "kana-cli.js",
+    "kana": "kana-cli.js"
+  },
+  "keywords": [],
+  "author": "xiaoshagua",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.1.0"
+  },
+  "type": "module"
+}
